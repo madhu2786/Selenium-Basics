@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-17T12:34:39 PST" name="Default suite" finished-at="2020-11-17T12:34:46 PST" duration-ms="7714">
+  <suite started-at="2020-11-18T13:15:54 PST" name="Default suite" finished-at="2020-11-18T13:16:06 PST" duration-ms="11555">
     <groups>
     </groups>
-    <test started-at="2020-11-17T12:34:39 PST" name="Default test" finished-at="2020-11-17T12:34:46 PST" duration-ms="7714">
-      <class name="WebDriverBasicConcepts.dropdown">
-        <test-method signature="dropdown1()[pri:0, instance:WebDriverBasicConcepts.dropdown@64cd705f]" started-at="2020-11-17T12:34:39 PST" name="dropdown1" finished-at="2020-11-17T12:34:46 PST" duration-ms="7680" status="PASS">
+    <test started-at="2020-11-18T13:15:54 PST" name="Default test" finished-at="2020-11-18T13:16:06 PST" duration-ms="11555">
+      <class name="WebDriverBasicConcepts.datepicker">
+        <test-method signature="datepickerdemo()[pri:0, instance:WebDriverBasicConcepts.datepicker@64cd705f]" started-at="2020-11-18T13:15:54 PST" name="datepickerdemo" finished-at="2020-11-18T13:16:06 PST" duration-ms="11527" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- dropdown1 -->
-      </class> <!-- WebDriverBasicConcepts.dropdown -->
+        </test-method> <!-- datepickerdemo -->
+      </class> <!-- WebDriverBasicConcepts.datepicker -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
